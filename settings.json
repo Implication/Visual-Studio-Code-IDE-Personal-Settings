@@ -1,0 +1,32 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "go.toolsManagement.autoUpdate": true,
+    "liveServer.settings.donotVerifyTags": true,
+    "terminal.integrated.fontFamily": "MesloLGS NF",
+    "files.autoSave": "afterDelay",
+    /**
+   * Better Defaults (VS Code Reset)
+   **/
+    "editor.copyWithSyntaxHighlighting": false,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.emptySelectionClipboard": false,
+    "workbench.editor.enablePreview": false,
+    "window.newWindowDimensions": "inherit",
+    "editor.multiCursorModifier": "ctrlCmd",
+    "files.trimTrailingWhitespace": true,
+    "diffEditor.renderSideBySide": false,
+    "editor.snippetSuggestions": "top",
+    "editor.detectIndentation": false,
+    "window.nativeFullScreen": false,
+    "files.insertFinalNewline": true,
+    /**
+    *z Personal Preference (Hide Everything)
+    **/
+    "workbench.activityBar.visible": false,
+    "workbench.sideBar.location": "right",
+    "workbench.editor.showTabs": false,
+    "workbench.statusBar.visible": false,
+    "editor.minimap.enabled": false,
+}

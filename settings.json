@@ -1,5 +1,4 @@
 {
-    "workbench.colorTheme": "Default Dark+",
     "editor.formatOnPaste": true,
     "editor.formatOnSave": true,
     "go.toolsManagement.autoUpdate": true,
@@ -29,4 +28,31 @@
     "workbench.editor.showTabs": false,
     "workbench.statusBar.visible": false,
     "editor.minimap.enabled": false,
+    "git.autofetch": true,
+    "gopls": {
+        "experimentalWorkspaceModule": true
+    },
+    "workbench.colorTheme": "SynthWave '84",
+    /**
+    * PHP Intelephense
+    **/
+    "php.suggest.basic": false,
 }
+/**
+   * Find
+   **/
+//    "search.useIgnoreFiles": false,
+//    "search.exclude": {
+//         // Hide everything in /vendor, except the "laravel" and
+//         "livewire" folder.
+//         "**/vendor/{[^l],?[^ai]}*": true,
+//         // Hide everything in /public, except "index.php"
+//         "**/public/{[^i],?[^n]}*": true,
+//         "**/node_modules": true,
+//         "**/dist": true,
+//         "**/_ide_helper.php": true,
+//         "**/composer.lock": true,
+//         "**/package-lock.json": true,
+//         "storage": true,
+//         ".phpunit.result.cache": true
+//     },
